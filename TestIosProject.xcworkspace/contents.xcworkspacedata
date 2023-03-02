@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:TestStaticFramework/TestStaticFramework.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TestStaticLibrary/TestStaticLibrary.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MyApp/MyApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TestFramework/TestFramework.xcodeproj">
+   </FileRef>
+</Workspace>
